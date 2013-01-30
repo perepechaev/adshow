@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">adshow</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="shop_name">shop_name</string>
+    <string name="shop_summary">Название магазина</string>
+    <string name="settings_title">Настройка</string>
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <EditTextPreference
+        android:name="host"
+        android:dialogTitle="Адрес сервера"
+        android:key="host"
+        android:summary="Адрес сервера"
+        android:title="Host" />
+    <EditTextPreference
+        android:name="@string/shop_name"
+        android:dialogTitle="Название магазина, английскими буквами"
+        android:key="name"
+        android:summary="@string/shop_summary"
+        android:title="Название магазина" />
+    <EditTextPreference
+        android:name="Номер точки"
+        android:dialogTitle="Номер точки"
+        android:key="number"
+        android:summary="Введите номер точки"
+        android:title="Номер точки" />
+
+</PreferenceScreen>
